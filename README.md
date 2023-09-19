@@ -1,3 +1,4 @@
+![Animated Image](https://your-image-url-here.com/your-animated-image.gif)
 <h1 align="center">Hi 👋, I'm Devin Yapa</h1>
 <h3 align="center">A Computer Science Student</h3>
 
