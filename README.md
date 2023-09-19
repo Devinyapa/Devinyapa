@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQGmT_tCKrbrGg/article-cover_image-shrink_720_1280/0/1693559711441?e=2147483647&v=beta&t=aFFNAX3c1Up1giuWBysNrrwrsv_I15D-KwQNNI5KwRE)
 <h1 align="center">Hi 👋, I'm Devin Yapa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devinyapa&label=Profile%20views&color=0e75b6&style=flat" alt="devinyapa" /> </p>
 
